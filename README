@@ -1,0 +1,28 @@
+GotQuote - Game of Thrones Quotes 
+Release 1.0
+Author: Barry@Condrey.org 
+
+Notes: 
+I was always captured by the dialog in GOT. I ead the books 
+first, and then watched the HBO movies many times. I wanted to create 
+sort of a "fortune" program, but that would return the GOT quotes. 
+I skulked some of the internet lists of quotes, and found 192 
+unique quotes. Note that some of the internet lists have lots of duplicates. 
+For example, a dozen people said "Winter is coming", we don't need a dozen quotes. 
+
+Arguments: 
+-d = A bit of debug output. 
+-a = Print all the quotes 
+
+Called without arguments, it will print a random quote. 
+
+This was originally written on a Raspberry Pi, under Raspbian.
+I then ported it in about 30 seconds to OSX. 
+
+Have fun. Note that one or two of the quotes use crude 
+language. You have been warned! 
+
+Just download the source and make. 
+
+Barry Condrey 
+Valar Dohaeris 
